@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246081428424",
+    "project_id": "quiace-808b6",
+    "storage_bucket": "quiace-808b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246081428424:android:db1ff1ff83af6713bb3efd",
+        "android_client_info": {
+          "package_name": "com.example.pmassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246081428424-5bnd7kgrbe3f4h6lv0ru9vep58bcpa8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcNn8WmZPVzgy_X8yAyophEMPGWPX1MtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246081428424-5bnd7kgrbe3f4h6lv0ru9vep58bcpa8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
